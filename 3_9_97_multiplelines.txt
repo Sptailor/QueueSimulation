@@ -1,0 +1,1102 @@
+Customer 1 arrived at 3.
+Customer 1 served by 1 at 3.
+Customer 1 departed at 4.
+Customer 2 arrived at 4.
+Customer 2 served by 1 at 4.
+Customer 3 arrived at 6.
+Customer 3 served by 2 at 6.
+Customer 4 arrived at 7.
+Customer 4 served by 3 at 7.
+Customer 4 departed at 8.
+Customer 5 arrived at 9.
+Customer 5 served by 3 at 9.
+Customer 6 arrived at 10.
+Customer 3 departed at 11.
+Customer 7 arrived at 11.
+Customer 7 served by 2 at 11.
+Customer 8 arrived at 12.
+Customer 2 departed at 13.
+Customer 6 served by 1 at 13.
+Customer 9 arrived at 14.
+Customer 10 arrived at 17.
+Customer 7 departed at 18.
+Customer 5 departed at 18.
+Customer 8 served by 2 at 18.
+Customer 10 served by 3 at 18.
+Customer 10 departed at 19.
+Customer 11 arrived at 20.
+Customer 11 served by 3 at 20.
+Customer 6 departed at 21.
+Customer 9 served by 1 at 21.
+Customer 9 departed at 22.
+Customer 11 departed at 23.
+Customer 12 arrived at 23.
+Customer 12 served by 1 at 23.
+Customer 8 departed at 24.
+Customer 13 arrived at 24.
+Customer 13 served by 2 at 24.
+Customer 14 arrived at 26.
+Customer 14 served by 3 at 26.
+Customer 13 departed at 29.
+Customer 15 arrived at 29.
+Customer 15 served by 2 at 29.
+Customer 14 departed at 30.
+Customer 12 departed at 31.
+Customer 15 departed at 31.
+Customer 16 arrived at 32.
+Customer 16 served by 1 at 32.
+Customer 17 arrived at 34.
+Customer 17 served by 2 at 34.
+Customer 16 departed at 35.
+Customer 17 departed at 35.
+Customer 18 arrived at 36.
+Customer 18 served by 1 at 36.
+Customer 19 arrived at 38.
+Customer 19 served by 2 at 38.
+Customer 20 arrived at 41.
+Customer 20 served by 3 at 41.
+Customer 19 departed at 42.
+Customer 18 departed at 43.
+Customer 21 arrived at 44.
+Customer 21 served by 1 at 44.
+Customer 22 arrived at 45.
+Customer 22 served by 2 at 45.
+Customer 23 arrived at 46.
+Customer 20 departed at 48.
+Customer 24 arrived at 49.
+Customer 24 served by 3 at 49.
+Customer 25 arrived at 50.
+Customer 26 arrived at 51.
+Customer 22 departed at 52.
+Customer 25 served by 2 at 52.
+Customer 21 departed at 53.
+Customer 23 served by 1 at 53.
+Customer 23 departed at 54.
+Customer 27 arrived at 54.
+Customer 27 served by 1 at 54.
+Customer 24 departed at 55.
+Customer 26 served by 3 at 55.
+Customer 28 arrived at 55.
+Customer 29 arrived at 57.
+Customer 30 arrived at 58.
+Customer 25 departed at 60.
+Customer 26 departed at 60.
+Customer 29 served by 2 at 60.
+Customer 30 served by 3 at 60.
+Customer 31 arrived at 61.
+Customer 32 arrived at 62.
+Customer 27 departed at 63.
+Customer 28 served by 1 at 63.
+Customer 29 departed at 65.
+Customer 31 served by 2 at 65.
+Customer 33 arrived at 65.
+Customer 28 departed at 66.
+Customer 33 served by 1 at 66.
+Customer 34 arrived at 66.
+Customer 33 departed at 67.
+Customer 34 served by 1 at 67.
+Customer 30 departed at 68.
+Customer 32 served by 3 at 68.
+Customer 35 arrived at 68.
+Customer 36 arrived at 69.
+Customer 31 departed at 71.
+Customer 36 served by 2 at 71.
+Customer 37 arrived at 71.
+Customer 38 arrived at 73.
+Customer 32 departed at 74.
+Customer 38 served by 3 at 74.
+Customer 39 arrived at 74.
+Customer 34 departed at 75.
+Customer 36 departed at 75.
+Customer 35 served by 1 at 75.
+Customer 37 served by 2 at 75.
+Customer 40 arrived at 77.
+Customer 41 arrived at 79.
+Customer 38 departed at 80.
+Customer 39 served by 3 at 80.
+Customer 42 arrived at 80.
+Customer 35 departed at 81.
+Customer 40 served by 1 at 81.
+Customer 37 departed at 82.
+Customer 41 served by 2 at 82.
+Customer 43 arrived at 82.
+Customer 44 arrived at 83.
+Customer 45 arrived at 86.
+Customer 40 departed at 87.
+Customer 43 served by 1 at 87.
+Customer 39 departed at 88.
+Customer 42 served by 3 at 88.
+Customer 46 arrived at 88.
+Customer 47 arrived at 89.
+Customer 41 departed at 91.
+Customer 44 served by 2 at 91.
+Customer 44 departed at 92.
+Customer 42 departed at 92.
+Customer 46 served by 3 at 92.
+Customer 48 arrived at 92.
+Customer 48 served by 2 at 92.
+Customer 49 arrived at 94.
+Customer 43 departed at 95.
+Customer 45 served by 1 at 95.
+Customer 48 departed at 96.
+Customer 49 served by 2 at 96.
+Customer 49 departed at 97.
+Customer 50 arrived at 97.
+Customer 50 served by 2 at 97.
+Customer 46 departed at 98.
+Customer 51 arrived at 98.
+Customer 51 served by 3 at 98.
+Customer 52 arrived at 99.
+Customer 45 departed at 100.
+Customer 47 served by 1 at 100.
+Customer 51 departed at 101.
+Customer 53 arrived at 102.
+Customer 53 served by 3 at 102.
+Customer 50 departed at 103.
+Customer 52 served by 2 at 103.
+Customer 54 arrived at 105.
+Customer 55 arrived at 106.
+Customer 47 departed at 107.
+Customer 53 departed at 107.
+Customer 54 served by 1 at 107.
+Customer 56 arrived at 107.
+Customer 56 served by 3 at 107.
+Customer 57 arrived at 108.
+Customer 58 arrived at 111.
+Customer 52 departed at 112.
+Customer 56 departed at 112.
+Customer 55 served by 2 at 112.
+Customer 58 served by 3 at 112.
+Customer 58 departed at 113.
+Customer 54 departed at 114.
+Customer 57 served by 1 at 114.
+Customer 59 arrived at 114.
+Customer 59 served by 3 at 114.
+Customer 60 arrived at 116.
+Customer 55 departed at 117.
+Customer 61 arrived at 117.
+Customer 61 served by 2 at 117.
+Customer 62 arrived at 119.
+Customer 63 arrived at 120.
+Customer 61 departed at 121.
+Customer 62 served by 2 at 121.
+Customer 57 departed at 122.
+Customer 60 served by 1 at 122.
+Customer 64 arrived at 122.
+Customer 62 departed at 123.
+Customer 59 departed at 123.
+Customer 63 served by 3 at 123.
+Customer 65 arrived at 125.
+Customer 65 served by 2 at 125.
+Customer 66 arrived at 126.
+Customer 67 arrived at 127.
+Customer 60 departed at 128.
+Customer 64 served by 1 at 128.
+Customer 65 departed at 130.
+Customer 66 served by 2 at 130.
+Customer 68 arrived at 130.
+Customer 63 departed at 132.
+Customer 67 served by 3 at 132.
+Customer 64 departed at 133.
+Customer 66 departed at 133.
+Customer 68 served by 1 at 133.
+Customer 69 arrived at 133.
+Customer 69 served by 2 at 133.
+Customer 69 departed at 136.
+Customer 70 arrived at 136.
+Customer 70 served by 2 at 136.
+Customer 70 departed at 137.
+Customer 68 departed at 138.
+Customer 71 arrived at 138.
+Customer 71 served by 1 at 138.
+Customer 67 departed at 139.
+Customer 72 arrived at 140.
+Customer 72 served by 2 at 140.
+Customer 73 arrived at 142.
+Customer 73 served by 3 at 142.
+Customer 74 arrived at 143.
+Customer 75 arrived at 146.
+Customer 71 departed at 147.
+Customer 74 served by 1 at 147.
+Customer 74 departed at 148.
+Customer 72 departed at 149.
+Customer 75 served by 2 at 149.
+Customer 76 arrived at 149.
+Customer 76 served by 1 at 149.
+Customer 76 departed at 150.
+Customer 73 departed at 151.
+Customer 77 arrived at 151.
+Customer 77 served by 1 at 151.
+Customer 75 departed at 154.
+Customer 78 arrived at 154.
+Customer 78 served by 2 at 154.
+Customer 77 departed at 156.
+Customer 79 arrived at 156.
+Customer 79 served by 1 at 156.
+Customer 80 arrived at 158.
+Customer 80 served by 3 at 158.
+Customer 79 departed at 159.
+Customer 80 departed at 159.
+Customer 81 arrived at 159.
+Customer 81 served by 1 at 159.
+Customer 81 departed at 160.
+Customer 82 arrived at 161.
+Customer 82 served by 1 at 161.
+Customer 82 departed at 163.
+Customer 78 departed at 163.
+Customer 83 arrived at 163.
+Customer 83 served by 1 at 163.
+Customer 84 arrived at 164.
+Customer 84 served by 2 at 164.
+Customer 85 arrived at 166.
+Customer 85 served by 3 at 166.
+Customer 84 departed at 169.
+Customer 85 departed at 169.
+Customer 86 arrived at 169.
+Customer 86 served by 2 at 169.
+Customer 83 departed at 171.
+Customer 87 arrived at 172.
+Customer 87 served by 1 at 172.
+Customer 86 departed at 173.
+Customer 88 arrived at 173.
+Customer 88 served by 2 at 173.
+Customer 89 arrived at 174.
+Customer 89 served by 3 at 174.
+Customer 90 arrived at 176.
+Customer 87 departed at 177.
+Customer 88 departed at 177.
+Customer 90 served by 1 at 177.
+Customer 90 departed at 178.
+Customer 91 arrived at 178.
+Customer 91 served by 1 at 178.
+Customer 92 arrived at 180.
+Customer 92 served by 2 at 180.
+Customer 89 departed at 181.
+Customer 93 arrived at 182.
+Customer 93 served by 3 at 182.
+Customer 91 departed at 183.
+Customer 94 arrived at 185.
+Customer 94 served by 1 at 185.
+Customer 95 arrived at 188.
+Customer 92 departed at 189.
+Customer 93 departed at 189.
+Customer 96 arrived at 190.
+Customer 96 served by 2 at 190.
+Customer 97 arrived at 193.
+Customer 97 served by 3 at 193.
+Customer 94 departed at 194.
+Customer 96 departed at 194.
+Customer 95 served by 1 at 194.
+Customer 98 arrived at 194.
+Customer 98 served by 2 at 194.
+Customer 98 departed at 195.
+Customer 99 arrived at 196.
+Customer 99 served by 2 at 196.
+Customer 100 arrived at 199.
+Customer 95 departed at 200.
+Customer 97 departed at 200.
+Customer 100 served by 1 at 200.
+Customer 101 arrived at 201.
+Customer 101 served by 3 at 201.
+Customer 100 departed at 202.
+Customer 99 departed at 203.
+Customer 102 arrived at 204.
+Customer 102 served by 1 at 204.
+Customer 101 departed at 206.
+Customer 103 arrived at 206.
+Customer 103 served by 2 at 206.
+Customer 103 departed at 209.
+Customer 104 arrived at 209.
+Customer 104 served by 2 at 209.
+Customer 102 departed at 211.
+Customer 104 departed at 211.
+Customer 105 arrived at 212.
+Customer 105 served by 1 at 212.
+Customer 106 arrived at 215.
+Customer 106 served by 2 at 215.
+Customer 107 arrived at 216.
+Customer 107 served by 3 at 216.
+Customer 108 arrived at 217.
+Customer 105 departed at 220.
+Customer 108 served by 1 at 220.
+Customer 109 arrived at 220.
+Customer 110 arrived at 221.
+Customer 108 departed at 222.
+Customer 109 served by 1 at 222.
+Customer 111 arrived at 222.
+Customer 106 departed at 223.
+Customer 107 departed at 223.
+Customer 110 served by 2 at 223.
+Customer 112 arrived at 223.
+Customer 112 served by 3 at 223.
+Customer 109 departed at 224.
+Customer 112 departed at 224.
+Customer 111 served by 1 at 224.
+Customer 110 departed at 225.
+Customer 113 arrived at 226.
+Customer 113 served by 2 at 226.
+Customer 114 arrived at 227.
+Customer 114 served by 3 at 227.
+Customer 115 arrived at 229.
+Customer 111 departed at 230.
+Customer 115 served by 1 at 230.
+Customer 116 arrived at 230.
+Customer 117 arrived at 231.
+Customer 115 departed at 232.
+Customer 116 served by 1 at 232.
+Customer 113 departed at 233.
+Customer 117 served by 2 at 233.
+Customer 118 arrived at 233.
+Customer 114 departed at 235.
+Customer 119 arrived at 235.
+Customer 119 served by 3 at 235.
+Customer 119 departed at 237.
+Customer 120 arrived at 237.
+Customer 120 served by 3 at 237.
+Customer 121 arrived at 240.
+Customer 116 departed at 241.
+Customer 118 served by 1 at 241.
+Customer 117 departed at 242.
+Customer 121 served by 2 at 242.
+Customer 118 departed at 243.
+Customer 122 arrived at 243.
+Customer 122 served by 1 at 243.
+Customer 120 departed at 245.
+Customer 122 departed at 246.
+Customer 123 arrived at 246.
+Customer 123 served by 1 at 246.
+Customer 123 departed at 247.
+Customer 124 arrived at 248.
+Customer 124 served by 1 at 248.
+Customer 121 departed at 250.
+Customer 125 arrived at 251.
+Customer 125 served by 2 at 251.
+Customer 125 departed at 252.
+Customer 126 arrived at 253.
+Customer 126 served by 2 at 253.
+Customer 124 departed at 254.
+Customer 127 arrived at 256.
+Customer 127 served by 1 at 256.
+Customer 126 departed at 259.
+Customer 128 arrived at 259.
+Customer 128 served by 2 at 259.
+Customer 129 arrived at 262.
+Customer 129 served by 3 at 262.
+Customer 127 departed at 264.
+Customer 130 arrived at 264.
+Customer 130 served by 1 at 264.
+Customer 131 arrived at 265.
+Customer 129 departed at 267.
+Customer 132 arrived at 267.
+Customer 132 served by 3 at 267.
+Customer 128 departed at 268.
+Customer 130 departed at 269.
+Customer 131 served by 1 at 269.
+Customer 133 arrived at 269.
+Customer 133 served by 2 at 269.
+Customer 134 arrived at 270.
+Customer 135 arrived at 272.
+Customer 133 departed at 273.
+Customer 135 served by 2 at 273.
+Customer 132 departed at 274.
+Customer 136 arrived at 274.
+Customer 136 served by 3 at 274.
+Customer 137 arrived at 277.
+Customer 131 departed at 278.
+Customer 134 served by 1 at 278.
+Customer 136 departed at 279.
+Customer 138 arrived at 279.
+Customer 138 served by 3 at 279.
+Customer 135 departed at 281.
+Customer 137 served by 2 at 281.
+Customer 139 arrived at 282.
+Customer 140 arrived at 284.
+Customer 134 departed at 285.
+Customer 139 served by 1 at 285.
+Customer 141 arrived at 286.
+Customer 138 departed at 288.
+Customer 137 departed at 289.
+Customer 140 served by 2 at 289.
+Customer 142 arrived at 289.
+Customer 142 served by 3 at 289.
+Customer 139 departed at 290.
+Customer 141 served by 1 at 290.
+Customer 143 arrived at 292.
+Customer 144 arrived at 293.
+Customer 140 departed at 295.
+Customer 144 served by 2 at 295.
+Customer 145 arrived at 295.
+Customer 142 departed at 297.
+Customer 146 arrived at 297.
+Customer 146 served by 3 at 297.
+Customer 141 departed at 298.
+Customer 143 served by 1 at 298.
+Customer 146 departed at 299.
+Customer 147 arrived at 299.
+Customer 147 served by 3 at 299.
+Customer 147 departed at 300.
+Customer 148 arrived at 301.
+Customer 148 served by 3 at 301.
+Customer 149 arrived at 303.
+Customer 143 departed at 304.
+Customer 144 departed at 304.
+Customer 149 served by 1 at 304.
+Customer 145 served by 2 at 304.
+Customer 150 arrived at 304.
+Customer 148 departed at 305.
+Customer 151 arrived at 305.
+Customer 151 served by 3 at 305.
+Customer 152 arrived at 306.
+Customer 153 arrived at 307.
+Customer 151 departed at 308.
+Customer 153 served by 3 at 308.
+Customer 149 departed at 309.
+Customer 150 served by 1 at 309.
+Customer 154 arrived at 309.
+Customer 155 arrived at 311.
+Customer 156 arrived at 312.
+Customer 145 departed at 313.
+Customer 152 served by 2 at 313.
+Customer 153 departed at 315.
+Customer 155 served by 3 at 315.
+Customer 157 arrived at 315.
+Customer 158 arrived at 317.
+Customer 150 departed at 318.
+Customer 152 departed at 318.
+Customer 154 served by 1 at 318.
+Customer 157 served by 2 at 318.
+Customer 155 departed at 320.
+Customer 158 served by 3 at 320.
+Customer 159 arrived at 320.
+Customer 160 arrived at 322.
+Customer 154 departed at 323.
+Customer 156 served by 1 at 323.
+Customer 161 arrived at 325.
+Customer 158 departed at 326.
+Customer 160 served by 3 at 326.
+Customer 156 departed at 327.
+Customer 157 departed at 327.
+Customer 160 departed at 327.
+Customer 161 served by 1 at 327.
+Customer 159 served by 2 at 327.
+Customer 162 arrived at 327.
+Customer 162 served by 3 at 327.
+Customer 163 arrived at 329.
+Customer 162 departed at 330.
+Customer 161 departed at 331.
+Customer 163 served by 1 at 331.
+Customer 164 arrived at 332.
+Customer 164 served by 3 at 332.
+Customer 165 arrived at 333.
+Customer 166 arrived at 335.
+Customer 159 departed at 336.
+Customer 166 served by 2 at 336.
+Customer 166 departed at 338.
+Customer 167 arrived at 338.
+Customer 167 served by 2 at 338.
+Customer 163 departed at 339.
+Customer 167 departed at 339.
+Customer 165 served by 1 at 339.
+Customer 168 arrived at 339.
+Customer 168 served by 2 at 339.
+Customer 164 departed at 341.
+Customer 169 arrived at 341.
+Customer 169 served by 3 at 341.
+Customer 170 arrived at 344.
+Customer 171 arrived at 345.
+Customer 165 departed at 346.
+Customer 169 departed at 346.
+Customer 170 served by 1 at 346.
+Customer 168 departed at 347.
+Customer 171 served by 2 at 347.
+Customer 171 departed at 348.
+Customer 172 arrived at 348.
+Customer 172 served by 2 at 348.
+Customer 173 arrived at 349.
+Customer 173 served by 3 at 349.
+Customer 173 departed at 350.
+Customer 170 departed at 352.
+Customer 174 arrived at 352.
+Customer 174 served by 1 at 352.
+Customer 174 departed at 353.
+Customer 175 arrived at 353.
+Customer 175 served by 1 at 353.
+Customer 176 arrived at 354.
+Customer 176 served by 3 at 354.
+Customer 177 arrived at 355.
+Customer 176 departed at 356.
+Customer 178 arrived at 356.
+Customer 178 served by 3 at 356.
+Customer 172 departed at 357.
+Customer 179 arrived at 358.
+Customer 179 served by 2 at 358.
+Customer 180 arrived at 360.
+Customer 175 departed at 361.
+Customer 178 departed at 361.
+Customer 177 served by 1 at 361.
+Customer 181 arrived at 361.
+Customer 181 served by 3 at 361.
+Customer 177 departed at 362.
+Customer 182 arrived at 362.
+Customer 182 served by 1 at 362.
+Customer 183 arrived at 363.
+Customer 182 departed at 364.
+Customer 183 served by 1 at 364.
+Customer 184 arrived at 366.
+Customer 179 departed at 367.
+Customer 180 served by 2 at 367.
+Customer 185 arrived at 367.
+Customer 181 departed at 368.
+Customer 186 arrived at 369.
+Customer 186 served by 3 at 369.
+Customer 186 departed at 370.
+Customer 187 arrived at 370.
+Customer 187 served by 3 at 370.
+Customer 183 departed at 372.
+Customer 187 departed at 372.
+Customer 184 served by 1 at 372.
+Customer 188 arrived at 372.
+Customer 188 served by 3 at 372.
+Customer 189 arrived at 373.
+Customer 190 arrived at 374.
+Customer 180 departed at 375.
+Customer 185 served by 2 at 375.
+Customer 188 departed at 376.
+Customer 190 served by 3 at 376.
+Customer 191 arrived at 377.
+Customer 192 arrived at 378.
+Customer 193 arrived at 379.
+Customer 194 arrived at 380.
+Customer 184 departed at 381.
+Customer 190 departed at 381.
+Customer 189 served by 1 at 381.
+Customer 192 served by 3 at 381.
+Customer 195 arrived at 382.
+Customer 196 arrived at 383.
+Customer 185 departed at 384.
+Customer 191 served by 2 at 384.
+Customer 197 arrived at 384.
+Customer 189 departed at 385.
+Customer 193 served by 1 at 385.
+Customer 191 departed at 387.
+Customer 194 served by 2 at 387.
+Customer 198 arrived at 387.
+Customer 199 arrived at 388.
+Customer 192 departed at 390.
+Customer 195 served by 3 at 390.
+Customer 200 arrived at 390.
+Customer 193 departed at 392.
+Customer 196 served by 1 at 392.
+Customer 195 departed at 393.
+Customer 200 served by 3 at 393.
+Customer 201 arrived at 393.
+Customer 202 arrived at 394.
+Customer 194 departed at 395.
+Customer 197 served by 2 at 395.
+Customer 203 arrived at 395.
+Customer 204 arrived at 396.
+Customer 205 arrived at 399.
+Customer 196 departed at 400.
+Customer 198 served by 1 at 400.
+Customer 200 departed at 401.
+Customer 201 served by 3 at 401.
+Customer 206 arrived at 402.
+Customer 207 arrived at 403.
+Customer 197 departed at 404.
+Customer 199 served by 2 at 404.
+Customer 198 departed at 405.
+Customer 202 served by 1 at 405.
+Customer 208 arrived at 405.
+Customer 209 arrived at 407.
+Customer 201 departed at 408.
+Customer 204 served by 3 at 408.
+Customer 199 departed at 410.
+Customer 203 served by 2 at 410.
+Customer 210 arrived at 410.
+Customer 211 arrived at 411.
+Customer 202 departed at 414.
+Customer 205 served by 1 at 414.
+Customer 212 arrived at 414.
+Customer 203 departed at 415.
+Customer 204 departed at 415.
+Customer 208 served by 2 at 415.
+Customer 206 served by 3 at 415.
+Customer 213 arrived at 415.
+Customer 214 arrived at 417.
+Customer 205 departed at 419.
+Customer 207 served by 1 at 419.
+Customer 206 departed at 420.
+Customer 211 served by 3 at 420.
+Customer 215 arrived at 420.
+Customer 216 arrived at 421.
+Customer 208 departed at 422.
+Customer 210 served by 2 at 422.
+Customer 207 departed at 423.
+Customer 209 served by 1 at 423.
+Customer 217 arrived at 423.
+Customer 210 departed at 425.
+Customer 211 departed at 425.
+Customer 213 served by 2 at 425.
+Customer 214 served by 3 at 425.
+Customer 218 arrived at 425.
+Customer 219 arrived at 428.
+Customer 209 departed at 429.
+Customer 212 served by 1 at 429.
+Customer 220 arrived at 431.
+Customer 221 arrived at 432.
+Customer 213 departed at 433.
+Customer 214 departed at 433.
+Customer 217 served by 2 at 433.
+Customer 215 served by 3 at 433.
+Customer 222 arrived at 433.
+Customer 223 arrived at 434.
+Customer 224 arrived at 435.
+Customer 212 departed at 436.
+Customer 216 served by 1 at 436.
+Customer 225 arrived at 436.
+Customer 217 departed at 437.
+Customer 215 departed at 437.
+Customer 218 served by 2 at 437.
+Customer 219 served by 3 at 437.
+Customer 226 arrived at 438.
+Customer 216 departed at 441.
+Customer 220 served by 1 at 441.
+Customer 227 arrived at 441.
+Customer 228 arrived at 442.
+Customer 220 departed at 443.
+Customer 219 departed at 443.
+Customer 221 served by 1 at 443.
+Customer 223 served by 3 at 443.
+Customer 229 arrived at 443.
+Customer 218 departed at 445.
+Customer 222 served by 2 at 445.
+Customer 230 arrived at 445.
+Customer 231 arrived at 446.
+Customer 232 arrived at 448.
+Customer 223 departed at 449.
+Customer 226 served by 3 at 449.
+Customer 233 arrived at 449.
+Customer 234 arrived at 450.
+Customer 222 departed at 451.
+Customer 224 served by 2 at 451.
+Customer 221 departed at 452.
+Customer 225 served by 1 at 452.
+Customer 235 arrived at 453.
+Customer 225 departed at 454.
+Customer 227 served by 1 at 454.
+Customer 236 arrived at 455.
+Customer 226 departed at 456.
+Customer 229 served by 3 at 456.
+Customer 237 arrived at 458.
+Customer 229 departed at 459.
+Customer 232 served by 3 at 459.
+Customer 238 arrived at 459.
+Customer 224 departed at 460.
+Customer 228 served by 2 at 460.
+Customer 239 arrived at 461.
+Customer 227 departed at 462.
+Customer 230 served by 1 at 462.
+Customer 240 arrived at 464.
+Customer 228 departed at 467.
+Customer 232 departed at 467.
+Customer 231 served by 2 at 467.
+Customer 233 served by 3 at 467.
+Customer 241 arrived at 467.
+Customer 230 departed at 469.
+Customer 234 served by 1 at 469.
+Customer 242 arrived at 470.
+Customer 233 departed at 471.
+Customer 237 served by 3 at 471.
+Customer 243 arrived at 471.
+Customer 244 arrived at 474.
+Customer 234 departed at 475.
+Customer 236 served by 1 at 475.
+Customer 231 departed at 476.
+Customer 235 served by 2 at 476.
+Customer 245 arrived at 477.
+Customer 235 departed at 480.
+Customer 237 departed at 480.
+Customer 239 served by 2 at 480.
+Customer 238 served by 3 at 480.
+Customer 246 arrived at 480.
+Customer 239 departed at 482.
+Customer 241 served by 2 at 482.
+Customer 247 arrived at 482.
+Customer 236 departed at 483.
+Customer 240 served by 1 at 483.
+Customer 241 departed at 484.
+Customer 238 departed at 484.
+Customer 246 served by 2 at 484.
+Customer 243 served by 3 at 484.
+Customer 248 arrived at 484.
+Customer 249 arrived at 486.
+Customer 246 departed at 487.
+Customer 243 departed at 487.
+Customer 247 served by 2 at 487.
+Customer 244 served by 3 at 487.
+Customer 240 departed at 488.
+Customer 247 departed at 488.
+Customer 242 served by 1 at 488.
+Customer 248 served by 2 at 488.
+Customer 250 arrived at 489.
+Customer 244 departed at 492.
+Customer 249 served by 3 at 492.
+Customer 251 arrived at 492.
+Customer 242 departed at 494.
+Customer 248 departed at 494.
+Customer 245 served by 1 at 494.
+Customer 250 served by 2 at 494.
+Customer 252 arrived at 495.
+Customer 250 departed at 496.
+Customer 253 arrived at 496.
+Customer 253 served by 2 at 496.
+Customer 253 departed at 499.
+Customer 254 arrived at 499.
+Customer 254 served by 2 at 499.
+Customer 245 departed at 500.
+Customer 252 served by 1 at 500.
+Customer 249 departed at 501.
+Customer 251 served by 3 at 501.
+Customer 255 arrived at 501.
+Customer 252 departed at 503.
+Customer 255 served by 1 at 503.
+Customer 256 arrived at 504.
+Customer 254 departed at 505.
+Customer 251 departed at 506.
+Customer 257 arrived at 507.
+Customer 257 served by 2 at 507.
+Customer 255 departed at 509.
+Customer 256 served by 1 at 509.
+Customer 258 arrived at 509.
+Customer 258 served by 3 at 509.
+Customer 259 arrived at 511.
+Customer 258 departed at 513.
+Customer 256 departed at 514.
+Customer 259 served by 1 at 514.
+Customer 260 arrived at 514.
+Customer 260 served by 3 at 514.
+Customer 257 departed at 515.
+Customer 261 arrived at 517.
+Customer 261 served by 2 at 517.
+Customer 259 departed at 518.
+Customer 260 departed at 519.
+Customer 262 arrived at 519.
+Customer 262 served by 1 at 519.
+Customer 263 arrived at 521.
+Customer 263 served by 3 at 521.
+Customer 262 departed at 522.
+Customer 261 departed at 522.
+Customer 263 departed at 522.
+Customer 264 arrived at 524.
+Customer 264 served by 1 at 524.
+Customer 265 arrived at 527.
+Customer 265 served by 2 at 527.
+Customer 266 arrived at 530.
+Customer 266 served by 3 at 530.
+Customer 264 departed at 531.
+Customer 265 departed at 532.
+Customer 267 arrived at 533.
+Customer 267 served by 1 at 533.
+Customer 268 arrived at 535.
+Customer 268 served by 2 at 535.
+Customer 268 departed at 536.
+Customer 269 arrived at 536.
+Customer 269 served by 2 at 536.
+Customer 270 arrived at 537.
+Customer 267 departed at 539.
+Customer 266 departed at 539.
+Customer 270 served by 1 at 539.
+Customer 271 arrived at 539.
+Customer 271 served by 3 at 539.
+Customer 272 arrived at 540.
+Customer 270 departed at 541.
+Customer 272 served by 1 at 541.
+Customer 273 arrived at 541.
+Customer 274 arrived at 543.
+Customer 269 departed at 544.
+Customer 274 served by 2 at 544.
+Customer 271 departed at 545.
+Customer 275 arrived at 546.
+Customer 275 served by 3 at 546.
+Customer 274 departed at 547.
+Customer 272 departed at 548.
+Customer 273 served by 1 at 548.
+Customer 276 arrived at 548.
+Customer 276 served by 2 at 548.
+Customer 275 departed at 550.
+Customer 277 arrived at 550.
+Customer 277 served by 3 at 550.
+Customer 273 departed at 553.
+Customer 278 arrived at 553.
+Customer 278 served by 1 at 553.
+Customer 276 departed at 554.
+Customer 279 arrived at 554.
+Customer 279 served by 2 at 554.
+Customer 278 departed at 555.
+Customer 279 departed at 556.
+Customer 277 departed at 557.
+Customer 280 arrived at 557.
+Customer 280 served by 1 at 557.
+Customer 281 arrived at 558.
+Customer 281 served by 2 at 558.
+Customer 280 departed at 561.
+Customer 281 departed at 561.
+Customer 282 arrived at 561.
+Customer 282 served by 1 at 561.
+Customer 283 arrived at 564.
+Customer 283 served by 2 at 564.
+Customer 282 departed at 565.
+Customer 284 arrived at 566.
+Customer 284 served by 1 at 566.
+Customer 285 arrived at 567.
+Customer 285 served by 3 at 567.
+Customer 283 departed at 569.
+Customer 285 departed at 569.
+Customer 286 arrived at 569.
+Customer 286 served by 2 at 569.
+Customer 286 departed at 571.
+Customer 287 arrived at 571.
+Customer 287 served by 2 at 571.
+Customer 284 departed at 572.
+Customer 288 arrived at 572.
+Customer 288 served by 1 at 572.
+Customer 289 arrived at 573.
+Customer 289 served by 3 at 573.
+Customer 290 arrived at 574.
+Customer 291 arrived at 575.
+Customer 292 arrived at 576.
+Customer 293 arrived at 577.
+Customer 288 departed at 578.
+Customer 289 departed at 578.
+Customer 290 served by 1 at 578.
+Customer 292 served by 3 at 578.
+Customer 294 arrived at 578.
+Customer 290 departed at 579.
+Customer 287 departed at 579.
+Customer 293 served by 1 at 579.
+Customer 291 served by 2 at 579.
+Customer 291 departed at 581.
+Customer 292 departed at 581.
+Customer 294 served by 3 at 581.
+Customer 295 arrived at 581.
+Customer 295 served by 2 at 581.
+Customer 296 arrived at 584.
+Customer 294 departed at 585.
+Customer 297 arrived at 585.
+Customer 297 served by 3 at 585.
+Customer 293 departed at 587.
+Customer 296 served by 1 at 587.
+Customer 298 arrived at 588.
+Customer 295 departed at 589.
+Customer 299 arrived at 589.
+Customer 299 served by 2 at 589.
+Customer 299 departed at 590.
+Customer 296 departed at 591.
+Customer 298 served by 1 at 591.
+Customer 300 arrived at 592.
+Customer 300 served by 2 at 592.
+Customer 300 departed at 593.
+Customer 297 departed at 593.
+Customer 301 arrived at 595.
+Customer 301 served by 2 at 595.
+Customer 302 arrived at 596.
+Customer 302 served by 3 at 596.
+Customer 298 departed at 598.
+Customer 303 arrived at 598.
+Customer 303 served by 1 at 598.
+Customer 304 arrived at 599.
+Customer 301 departed at 600.
+Customer 302 departed at 600.
+Customer 305 arrived at 602.
+Customer 305 served by 2 at 602.
+Customer 306 arrived at 603.
+Customer 306 served by 3 at 603.
+Customer 307 arrived at 604.
+Customer 303 departed at 605.
+Customer 304 served by 1 at 605.
+Customer 308 arrived at 605.
+Customer 305 departed at 606.
+Customer 307 served by 2 at 606.
+Customer 306 departed at 607.
+Customer 304 departed at 608.
+Customer 308 served by 1 at 608.
+Customer 309 arrived at 608.
+Customer 309 served by 3 at 608.
+Customer 308 departed at 609.
+Customer 307 departed at 610.
+Customer 310 arrived at 610.
+Customer 310 served by 1 at 610.
+Customer 311 arrived at 613.
+Customer 311 served by 2 at 613.
+Customer 312 arrived at 614.
+Customer 313 arrived at 615.
+Customer 309 departed at 616.
+Customer 310 departed at 617.
+Customer 312 served by 1 at 617.
+Customer 314 arrived at 617.
+Customer 314 served by 3 at 617.
+Customer 315 arrived at 618.
+Customer 311 departed at 620.
+Customer 313 served by 2 at 620.
+Customer 316 arrived at 620.
+Customer 314 departed at 621.
+Customer 317 arrived at 621.
+Customer 317 served by 3 at 621.
+Customer 312 departed at 622.
+Customer 315 served by 1 at 622.
+Customer 318 arrived at 623.
+Customer 313 departed at 624.
+Customer 316 served by 2 at 624.
+Customer 315 departed at 625.
+Customer 316 departed at 625.
+Customer 318 served by 1 at 625.
+Customer 317 departed at 626.
+Customer 319 arrived at 626.
+Customer 319 served by 2 at 626.
+Customer 320 arrived at 628.
+Customer 320 served by 3 at 628.
+Customer 321 arrived at 631.
+Customer 322 arrived at 632.
+Customer 318 departed at 633.
+Customer 321 served by 1 at 633.
+Customer 323 arrived at 633.
+Customer 320 departed at 634.
+Customer 324 arrived at 634.
+Customer 324 served by 3 at 634.
+Customer 319 departed at 635.
+Customer 322 served by 2 at 635.
+Customer 325 arrived at 635.
+Customer 326 arrived at 638.
+Customer 321 departed at 641.
+Customer 322 departed at 641.
+Customer 323 served by 1 at 641.
+Customer 325 served by 2 at 641.
+Customer 327 arrived at 641.
+Customer 324 departed at 643.
+Customer 326 served by 3 at 643.
+Customer 328 arrived at 644.
+Customer 323 departed at 646.
+Customer 327 served by 1 at 646.
+Customer 329 arrived at 646.
+Customer 325 departed at 647.
+Customer 328 served by 2 at 647.
+Customer 330 arrived at 647.
+Customer 326 departed at 650.
+Customer 331 arrived at 650.
+Customer 331 served by 3 at 650.
+Customer 327 departed at 651.
+Customer 329 served by 1 at 651.
+Customer 332 arrived at 651.
+Customer 329 departed at 652.
+Customer 332 served by 1 at 652.
+Customer 328 departed at 653.
+Customer 331 departed at 653.
+Customer 330 served by 2 at 653.
+Customer 333 arrived at 653.
+Customer 333 served by 3 at 653.
+Customer 330 departed at 654.
+Customer 333 departed at 654.
+Customer 334 arrived at 654.
+Customer 334 served by 2 at 654.
+Customer 335 arrived at 657.
+Customer 335 served by 3 at 657.
+Customer 334 departed at 658.
+Customer 336 arrived at 658.
+Customer 336 served by 2 at 658.
+Customer 337 arrived at 659.
+Customer 332 departed at 660.
+Customer 335 departed at 660.
+Customer 337 served by 1 at 660.
+Customer 338 arrived at 660.
+Customer 338 served by 3 at 660.
+Customer 339 arrived at 661.
+Customer 340 arrived at 663.
+Customer 337 departed at 665.
+Customer 339 served by 1 at 665.
+Customer 341 arrived at 666.
+Customer 336 departed at 667.
+Customer 340 served by 2 at 667.
+Customer 338 departed at 668.
+Customer 342 arrived at 668.
+Customer 342 served by 3 at 668.
+Customer 343 arrived at 671.
+Customer 339 departed at 672.
+Customer 341 served by 1 at 672.
+Customer 341 departed at 674.
+Customer 342 departed at 674.
+Customer 344 arrived at 674.
+Customer 344 served by 1 at 674.
+Customer 340 departed at 675.
+Customer 343 served by 2 at 675.
+Customer 345 arrived at 676.
+Customer 345 served by 3 at 676.
+Customer 344 departed at 677.
+Customer 343 departed at 677.
+Customer 346 arrived at 677.
+Customer 346 served by 1 at 677.
+Customer 346 departed at 680.
+Customer 347 arrived at 680.
+Customer 347 served by 1 at 680.
+Customer 348 arrived at 682.
+Customer 348 served by 2 at 682.
+Customer 349 arrived at 684.
+Customer 345 departed at 685.
+Customer 348 departed at 686.
+Customer 350 arrived at 686.
+Customer 350 served by 2 at 686.
+Customer 347 departed at 688.
+Customer 349 served by 1 at 688.
+Customer 351 arrived at 688.
+Customer 351 served by 3 at 688.
+Customer 349 departed at 690.
+Customer 352 arrived at 690.
+Customer 352 served by 1 at 690.
+Customer 352 departed at 691.
+Customer 351 departed at 691.
+Customer 353 arrived at 692.
+Customer 353 served by 1 at 692.
+Customer 350 departed at 693.
+Customer 354 arrived at 694.
+Customer 354 served by 2 at 694.
+Customer 355 arrived at 696.
+Customer 355 served by 3 at 696.
+Customer 354 departed at 697.
+Customer 356 arrived at 697.
+Customer 356 served by 2 at 697.
+Customer 353 departed at 700.
+Customer 355 departed at 700.
+Customer 357 arrived at 700.
+Customer 357 served by 1 at 700.
+Customer 358 arrived at 701.
+Customer 358 served by 3 at 701.
+Customer 359 arrived at 702.
+Customer 357 departed at 703.
+Customer 359 served by 1 at 703.
+Customer 359 departed at 704.
+Customer 356 departed at 705.
+Customer 360 arrived at 705.
+Customer 360 served by 1 at 705.
+Customer 361 arrived at 707.
+Customer 361 served by 2 at 707.
+Customer 360 departed at 708.
+Customer 362 arrived at 709.
+Customer 362 served by 1 at 709.
+Customer 358 departed at 710.
+Customer 363 arrived at 711.
+Customer 363 served by 3 at 711.
+Customer 363 departed at 714.
+Customer 364 arrived at 714.
+Customer 364 served by 3 at 714.
+Customer 362 departed at 716.
+Customer 361 departed at 716.
+Customer 365 arrived at 717.
+Customer 365 served by 1 at 717.
+Customer 366 arrived at 719.
+Customer 366 served by 2 at 719.
+Customer 364 departed at 720.
+Customer 367 arrived at 720.
+Customer 367 served by 3 at 720.
+
+Average wait time: 3.4 minutes
+Maximum wait time: 23 minutes
+Maximum line length: 10 customers
